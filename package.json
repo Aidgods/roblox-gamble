@@ -22,6 +22,7 @@
     "hwid": "^0.4.1",
     "jimp": "^0.3.5",
     "minestat": "^1.0.5",
+    "noblox.js": "^4.15.1",
     "node-fetch": "^2.6.9",
     "node-hwid": "^0.1.0",
     "prismarine-auth": "^2.1.0",
